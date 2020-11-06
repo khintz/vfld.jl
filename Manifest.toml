@@ -109,10 +109,10 @@ uuid = "968ba79b-81e4-546f-ab3a-2eecfa62a9db"
 version = "0.4.0"
 
 [[EarCut_jll]]
-deps = ["Libdl", "Pkg"]
-git-tree-sha1 = "eabac56550a7d7e0be499125673fbff560eb8b20"
+deps = ["Artifacts", "JLLWrappers", "Libdl", "Pkg"]
+git-tree-sha1 = "92d8f9f208637e8d2d28c664051a00569c01493d"
 uuid = "5ae413db-bbd1-5e63-b57d-d24a61df00f5"
-version = "2.1.5+0"
+version = "2.1.5+1"
 
 [[FFMPEG]]
 deps = ["FFMPEG_jll", "x264_jll"]
